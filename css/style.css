@@ -83,6 +83,11 @@ h1, h2, h3, p, fieldset {
     padding: 12px 28px;
 }
 
+.btn:disabled {
+    background-color: #c1c1c1;
+    box-shadow: none;
+}
+
 .text-red {
     color: #f44;
 }
